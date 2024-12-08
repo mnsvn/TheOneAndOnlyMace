@@ -1,0 +1,9 @@
+name: TheOneAndOnlyMace
+main: ru.mnsvn.theoneandonlymace.TheOneAndOnlyMace
+api-version: 1.21
+
+author: mnsvn
+version: 1.0
+commands:
+  theoneandonlymace:
+    permission: theoneandonlymace.theoneandonlymace
